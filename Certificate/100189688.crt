@@ -1,0 +1,83 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 269 (0x10d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=UK, ST=Derbyshire, L=Derby, O=University of Derby, OU=School of Computing and Mathematics, CN=5CC515
+        Validity
+            Not Before: Nov 24 16:03:03 2014 GMT
+            Not After : Nov 24 16:03:03 2015 GMT
+        Subject: C=UK, ST=Derbyshire, O=University of Derby, OU=Department of Computing and Mathematics, CN=100189688
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d8:42:18:b7:47:d7:9a:62:b4:59:4d:4f:42:a4:
+                    51:5a:d9:14:d4:ef:82:00:ca:75:a8:6c:32:84:8b:
+                    8a:f5:92:3d:2e:26:6a:f6:4e:a5:e8:da:58:b1:e3:
+                    d1:a0:a6:00:db:38:b9:0a:6d:49:d7:af:83:4d:12:
+                    3d:a4:a7:81:7d:dd:48:bc:d0:cb:82:84:fd:09:36:
+                    46:c0:bc:d3:9f:5e:b8:0f:83:70:c2:66:97:ab:7c:
+                    6a:ab:7b:37:d9:dc:22:37:f4:e7:0a:60:4d:b4:5c:
+                    e6:b1:25:b6:41:5d:3a:23:e6:74:ba:44:d4:94:53:
+                    d6:0b:d0:9d:96:55:14:be:66:49:56:61:e8:a8:22:
+                    bf:48:0a:d8:64:08:98:68:43:3c:72:36:6f:0f:c3:
+                    b2:50:79:47:4c:98:cf:bb:d0:79:79:01:25:6a:88:
+                    b8:b3:fd:e5:59:ec:fe:f0:33:96:73:43:5c:51:a4:
+                    39:db:c9:a7:c5:be:ce:14:9d:17:74:d6:92:39:10:
+                    84:b3:9d:6a:eb:08:9c:cb:f2:e9:f6:31:9d:49:b0:
+                    f1:9a:0c:52:57:6a:a9:52:ac:05:4b:0f:e1:de:66:
+                    fc:57:5e:54:3a:c2:26:9d:d5:6b:c1:76:c9:dd:c7:
+                    88:63:0e:44:a6:fd:4e:c4:2b:9a:53:ee:5f:44:6f:
+                    f9:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                B3:2F:D3:58:59:30:A8:F9:B6:A6:8B:95:39:3F:DF:7D:C2:1C:20:BD
+            X509v3 Authority Key Identifier: 
+                keyid:1E:9F:82:64:20:CA:C4:43:53:8F:7C:E4:0A:A8:D6:EC:4E:76:23:F4
+
+    Signature Algorithm: sha1WithRSAEncryption
+         79:7e:d2:20:e1:da:e2:fd:33:f5:b0:ec:e8:dc:1d:1d:c8:fd:
+         17:a1:c3:13:06:d2:b0:39:59:c4:d9:38:39:e5:d5:be:b9:48:
+         62:29:1f:6f:4c:0b:6a:70:46:6b:0d:b3:ae:d8:ff:27:0a:a1:
+         e4:4d:b6:5a:de:d6:c2:99:ec:61:7d:8e:e3:98:46:27:d3:88:
+         6d:60:d6:e8:90:2a:69:37:2e:68:6d:55:d3:fe:89:2b:39:aa:
+         ec:bf:1f:1e:2b:80:1e:5f:a8:43:9e:11:2b:cc:7e:78:5a:02:
+         cb:ae:7c:7f:92:9c:bb:88:04:94:52:c3:d9:26:15:4a:a8:b8:
+         16:a6:ef:40:2f:f8:02:55:38:6a:71:9a:4e:08:25:e4:80:98:
+         67:17:b4:6f:8b:7e:64:1c:40:5c:70:c8:c7:c2:cf:a9:26:7d:
+         94:f3:f1:7f:1c:94:ab:56:82:aa:4e:3f:93:8a:04:8c:81:33:
+         68:26:18:8e:fa:6f:83:78:3d:49:1c:fc:2c:26:16:a0:69:31:
+         7f:c3:a2:d0:d6:95:9d:de:fc:89:19:30:9b:13:a8:86:a4:9b:
+         86:03:2c:ca:42:0e:e6:19:e1:90:9b:c2:eb:2d:21:16:57:3a:
+         7f:98:a3:3c:22:bd:86:59:b6:ed:87:2e:6c:92:92:be:09:29:
+         c3:05:2d:32
+-----BEGIN CERTIFICATE-----
+MIIEDjCCAvagAwIBAgICAQ0wDQYJKoZIhvcNAQEFBQAwgY8xCzAJBgNVBAYTAlVL
+MRMwEQYDVQQIDApEZXJieXNoaXJlMQ4wDAYDVQQHDAVEZXJieTEcMBoGA1UECgwT
+VW5pdmVyc2l0eSBvZiBEZXJieTEsMCoGA1UECwwjU2Nob29sIG9mIENvbXB1dGlu
+ZyBhbmQgTWF0aGVtYXRpY3MxDzANBgNVBAMMBjVDQzUxNTAeFw0xNDExMjQxNjAz
+MDNaFw0xNTExMjQxNjAzMDNaMIGGMQswCQYDVQQGEwJVSzETMBEGA1UECAwKRGVy
+YnlzaGlyZTEcMBoGA1UECgwTVW5pdmVyc2l0eSBvZiBEZXJieTEwMC4GA1UECwwn
+RGVwYXJ0bWVudCBvZiBDb21wdXRpbmcgYW5kIE1hdGhlbWF0aWNzMRIwEAYDVQQD
+DAkxMDAxODk2ODgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYQhi3
+R9eaYrRZTU9CpFFa2RTU74IAynWobDKEi4r1kj0uJmr2TqXo2lix49GgpgDbOLkK
+bUnXr4NNEj2kp4F93Ui80MuChP0JNkbAvNOfXrgPg3DCZperfGqrezfZ3CI39OcK
+YE20XOaxJbZBXToj5nS6RNSUU9YL0J2WVRS+ZklWYeioIr9ICthkCJhoQzxyNm8P
+w7JQeUdMmM+70Hl5ASVqiLiz/eVZ7P7wM5ZzQ1xRpDnbyafFvs4UnRd01pI5EISz
+nWrrCJzL8un2MZ1JsPGaDFJXaqlSrAVLD+HeZvxXXlQ6wiad1WvBdsndx4hjDkSm
+/U7EK5pT7l9Eb/kdAgMBAAGjezB5MAkGA1UdEwQCMAAwLAYJYIZIAYb4QgENBB8W
+HU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSzL9NYWTCo
++bami5U5P999whwgvTAfBgNVHSMEGDAWgBQen4JkIMrEQ1OPfOQKqNbsTnYj9DAN
+BgkqhkiG9w0BAQUFAAOCAQEAeX7SIOHa4v0z9bDs6NwdHcj9F6HDEwbSsDlZxNk4
+OeXVvrlIYikfb0wLanBGaw2zrtj/Jwqh5E22Wt7WwpnsYX2O45hGJ9OIbWDW6JAq
+aTcuaG1V0/6JKzmq7L8fHiuAHl+oQ54RK8x+eFoCy658f5Kcu4gElFLD2SYVSqi4
+FqbvQC/4AlU4anGaTggl5ICYZxe0b4t+ZBxAXHDIx8LPqSZ9lPPxfxyUq1aCqk4/
+k4oEjIEzaCYYjvpvg3g9SRz8LCYWoGkxf8Oi0NaVnd78iRkwmxOohqSbhgMsykIO
+5hnhkJvC6y0hFlc6f5ijPCK9hlm27YcubJKSvgkpwwUtMg==
+-----END CERTIFICATE-----
